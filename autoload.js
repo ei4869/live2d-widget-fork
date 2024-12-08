@@ -1,4 +1,4 @@
-// live2d_path 参数建议使用绝对路径.
+// live2d_path 参数建议使用绝对路径
 const live2d_path = "https://raw.githubusercontent.com/ei4869/live2d-widget-fork/v1.0.0/";
 //const live2d_path = "/live2d-widget/";
 
