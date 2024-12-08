@@ -70,7 +70,7 @@
 	cursor: grab;
 	height: 200px;
 	position: relative;
-	width: 200px;
+	width: 100px;
 }
 
 #live2d:active {
