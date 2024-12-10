@@ -45,13 +45,22 @@
 		"selector": ".site-page[href='/comments/']",
 		"text": ["有什么想对主人说吗？", "主人可以解决你的烦恼哦！"]
 	}, {
+		"selector": ".site-page[href='/music/']",
+		"text": ["这是主人的宝藏歌单哦，听听看吗？", "陶醉在音乐世界里吧！"]
+	}, {
+		"selector": ".site-page[href='/gallery/']",
+		"text": ["这是主人的图库哦，听说看了心情会很好。", "休息一下吧，这里可以护眼哦！"]
+	}, {
+		"selector": ".site-page[href='/anime/']",
+		"text": ["看看主人喜欢看什么番吧！", "看看有没有你喜欢的？ヾ(◍°∇°◍)ﾉﾞ"]
+	}, {
 		"selector": ".menu-item-friends a",
 		"text": ["这是我的朋友们哦ヾ(◍°∇°◍)ﾉﾞ", "要去大佬们的家看看吗？", "要去拜访一下我的朋友们吗？"]
 	}, {
 		"selector": "#search-button",
 		"text": ["找不到想看的内容？搜索看看吧！", "在找什么东西呢，需要帮忙吗？"]
 	}, {
-		"selector": ".aplayer-icon",
+		"selector": ".aplayer.aplayer-fixed.aplayer-narrow .aplayer-body",
 		"text": ["听听音乐放松下吧！", "音乐可以治愈内心哦！"]
 	}, {
 		"selector": ".menu-item a",

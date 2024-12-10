@@ -1,7 +1,7 @@
-//git add .;git commit -m "update on 24.12.10";git push origin customize;git tag -a v1.0.7 -m "更新代码";git push origin v1.0.7
+//git add .;git commit -m "update on 24.12.10";git push origin customize;git tag -a v1.0.8 -m "更新代码";git push origin v1.0.8
 
 // live2d_path 参数建议使用绝对路径
-const live2d_path = "https://fastly.jsdelivr.net/gh/ei4869/live2d-widget-fork@v1.0.7/";
+const live2d_path = "https://fastly.jsdelivr.net/gh/ei4869/live2d-widget-fork@v1.0.8/";
 //const live2d_path = "/live2d-widget/";
 
 // 封装异步加载资源的方法
